@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.common.library.adapterdelegates;
+package com.common.library.recyclerview.adapterdelegates;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
